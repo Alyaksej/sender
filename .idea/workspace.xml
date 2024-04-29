@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09663cbb-f24d-44d2-b189-b6adf1638e5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/12281jqhf95wo5qi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/1asztin7pylvz6t9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/1ckom4fsr0tn83zn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/1nf99qqtk6oiyy99.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/21a29pk456oa825u.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/22uydpts41y3rda4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/28db9x6hsatv85oh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/2ttub0732imea2lt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/3f8hase5l9ki8lfs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/3tiny803uruz2ean.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/3yh6fji49w9oe98b.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/43lbr8dijvfl572r.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/4pbcpronscyejmgx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/5fln1akn8ia7f2fw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/gowcgqv1vb5tvtt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/joo1z8jkhe8x953.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/vxhvdohrcvq31o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq-5zxsffwfotlu67k3bieafcn0t/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/sender-1soj1njyecaq4/s-gvjv8bfcvd-1poxggq.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="2twm59ai" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fS52FMNduppsKp5Af3lEJWBksU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cargo.Run.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/RustroverProjects/proj&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package sender --bin sender" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09663cbb-f24d-44d2-b189-b6adf1638e5c" name="Changes" comment="" />
+      <created>1713781429726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713781429726</updated>
+      <workItem from="1713781430993" duration="1594000" />
+      <workItem from="1713786635337" duration="5392000" />
+      <workItem from="1713862133067" duration="9306000" />
+      <workItem from="1713945967204" duration="17484000" />
+      <workItem from="1714032456537" duration="4182000" />
+      <workItem from="1714045576139" duration="1754000" />
+      <workItem from="1714118805371" duration="5440000" />
+      <workItem from="1714132951160" duration="7064000" />
+      <workItem from="1714375957206" duration="4071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
