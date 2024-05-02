@@ -10,7 +10,7 @@ fn main() {
     // let _ = socket.connect(SOCKET_PATH);
     // let mut rnd = rand::thread_rng();
     // let range = Uniform::new_inclusive(1, 100);
-
+    //
     // loop {
     //     let random_number: i32 = rnd.sample(range);
     //     let _ = socket.send_to(&random_number.to_be_bytes(), SOCKET_PATH);
@@ -22,17 +22,22 @@ fn main() {
     let socket = UnixDatagram::unbound().unwrap();
     let _ = socket.connect(SOCKET_PATH);
     let mut rnd = rand::thread_rng();
-    let range = Uniform::new_inclusive(1, 100);
+    let range = Uniform::new_inclusive(-10000, 10000);
     const MAX_NUMBERS: usize = 5;
     const BUFFER_SIZE: usize = 4 * MAX_NUMBERS;
     loop {
-        let mut buffer = vec![0u8, (BUFFER_SIZE as i32).try_into().unwrap()];
-        for  i  in 0..5 {
+        let mut buffer = Vec::new();
+        for  _i  in 0..MAX_NUMBERS {
             let random_number: i32 = rnd.sample(range);
-            buffer.push(random_number as u8);
+            println!("random_number: {}", random_number);
+            buffer.push(random_number);
         }
-        let _ = socket.send(&buffer);
+        let buffer_as_bytes: &[u8] = unsafe {
+            std::slice::from_raw_parts(buffer.as_ptr() as *const u8, buffer.len() * std::mem::size_of::<i32>())
+        };
+        let _ = socket.send(&buffer_as_bytes);
         println!("buffer: {:?}", buffer);
+        println!("buffer_as_bytes: {:?}", buffer_as_bytes);
         std::thread::sleep(Duration::from_secs(1));
     }
 }
